@@ -1,9 +1,9 @@
 # Names
 
-Axel Delignieres
-Romain Le Monnier
-Titouan Bazillio
-Taha Abou-eljinane
+- Axel Delignieres
+- Romain Le Monnier
+- Titouan Bazillio
+- Taha Abou-eljinane
 
 # FizzBuzz Maven Project
 
