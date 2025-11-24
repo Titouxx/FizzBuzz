@@ -16,15 +16,7 @@ public class FizzBuzzStepDefinitions {
 
     @When("I compute its FizzBuzz representation")
     public void i_compute_its_fizzbuzz_representation() {
-        if (number % 15 == 0) {
-            result = "FizzBuzz";
-        } else if (number % 3 == 0) {
-            result = "Fizz";
-        } else if (number % 5 == 0) {
-            result = "Buzz";
-        } else {
-            result = Integer.toString(number);
-        }
+        result = FizzBuzz.fizzBuzz(number);
     }
 
     @Then("the result should be {string}")
