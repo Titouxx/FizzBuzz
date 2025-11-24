@@ -23,7 +23,7 @@ Feature: FizzBuzz output for numbers 1 to 100
       | 10     | Buzz      |
       | 11     | 11        |
       | 12     | Fizz      |
-      | 13     | 13        |
+      | 13     | Fizz      |
       | 14     | 14        |
       | 15     | FizzBuzz  |
       | 16     | 16        |
@@ -33,7 +33,7 @@ Feature: FizzBuzz output for numbers 1 to 100
       | 20     | Buzz      |
       | 21     | Fizz      |
       | 22     | 22        |
-      | 23     | 23        |
+      | 23     | Fizz      |
       | 24     | Fizz      |
       | 25     | Buzz      |
       | 26     | 26        |
@@ -41,19 +41,19 @@ Feature: FizzBuzz output for numbers 1 to 100
       | 28     | 28        |
       | 29     | 29        |
       | 30     | FizzBuzz  |
-      | 31     | 31        |
-      | 32     | 32        |
+      | 31     | Fizz      |
+      | 32     | Fizz      |
       | 33     | Fizz      |
-      | 34     | 34        |
-      | 35     | Buzz      |
+      | 34     | Fizz      |
+      | 35     | FizzBuzz  |
       | 36     | Fizz      |
-      | 37     | 37        |
-      | 38     | 38        |
+      | 37     | Fizz      |
+      | 38     | Fizz      |
       | 39     | Fizz      |
       | 40     | Buzz      |
       | 41     | 41        |
       | 42     | Fizz      |
-      | 43     | 43        |
+      | 43     | Fizz      |
       | 44     | 44        |
       | 45     | FizzBuzz  |
       | 46     | 46        |
@@ -61,15 +61,15 @@ Feature: FizzBuzz output for numbers 1 to 100
       | 48     | Fizz      |
       | 49     | 49        |
       | 50     | Buzz      |
-      | 51     | Fizz      |
-      | 52     | 52        |
-      | 53     | 53        |
-      | 54     | Fizz      |
+      | 51     | FizzBuzz  |
+      | 52     | Buzz      |
+      | 53     | FizzBuzz  |
+      | 54     | FizzBuzz  |
       | 55     | Buzz      |
-      | 56     | 56        |
-      | 57     | Fizz      |
-      | 58     | 58        |
-      | 59     | 59        |
+      | 56     | Buzz      |
+      | 57     | FizzBuzz  |
+      | 58     | Buzz      |
+      | 59     | Buzz      |
       | 60     | FizzBuzz  |
       | 61     | 61        |
       | 62     | 62        |
@@ -83,7 +83,7 @@ Feature: FizzBuzz output for numbers 1 to 100
       | 70     | Buzz      |
       | 71     | 71        |
       | 72     | Fizz      |
-      | 73     | 73        |
+      | 73     | Fizz      |
       | 74     | 74        |
       | 75     | FizzBuzz  |
       | 76     | 76        |
@@ -93,7 +93,7 @@ Feature: FizzBuzz output for numbers 1 to 100
       | 80     | Buzz      |
       | 81     | Fizz      |
       | 82     | 82        |
-      | 83     | 83        |
+      | 83     | Fizz      |
       | 84     | Fizz      |
       | 85     | Buzz      |
       | 86     | 86        |
